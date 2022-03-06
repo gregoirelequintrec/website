@@ -1,0 +1,17 @@
+.btn-blue {
+	background-color:grey;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: yellow;
+	font-weight: bold;
+}
+
+.btn-blue hover {
+
+	background-color: yellowgreen;
+	color: yellowgreen;
+
+}
+
+
+
